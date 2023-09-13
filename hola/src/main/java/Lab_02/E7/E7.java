@@ -129,8 +129,7 @@ public class E7 extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCalcularActionPerformed
-tbtnInstalacion.setSelected(true);
-        double precio_base;
+    double precio_base;
 double precio_instal; //precio instalación
 double precio_for; //precio formacion
 double precio_ali; //precio alimentacion
